@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: msc_thesis_summary_en.aux
+The style file: apalike.bst
+Database file #1: references.bib
+Warning--empty institution in blumenfeld1984trade
+You've used 19 entries,
+            1935 wiz_defined-function locations,
+            592 strings with 6873 characters,
+and the built_in function-call counts, 6475 in all, are:
+= -- 641
+> -- 209
+< -- 18
++ -- 76
+- -- 64
+* -- 511
+:= -- 1155
+add.period$ -- 57
+call.type$ -- 19
+change.case$ -- 124
+chr.to.int$ -- 19
+cite$ -- 20
+duplicate$ -- 262
+empty$ -- 471
+format.name$ -- 100
+if$ -- 1252
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 97
+num.names$ -- 57
+pop$ -- 97
+preamble$ -- 1
+purify$ -- 126
+quote$ -- 0
+skip$ -- 211
+stack$ -- 0
+substring$ -- 438
+swap$ -- 24
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 108
+warning$ -- 1
+while$ -- 56
+width$ -- 0
+write$ -- 239
+(There was 1 warning)

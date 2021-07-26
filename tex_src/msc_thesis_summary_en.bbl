@@ -1,0 +1,109 @@
+\begin{thebibliography}{}
+
+\bibitem[Ballou, 2005]{ballou2005expressing}
+Ballou, R.~H. (2005).
+\newblock Expressing inventory control policy in the turnover curve.
+\newblock {\em Journal of Business Logistics}, 26(2):143--164.
+
+\bibitem[Blumenfeld et~al., 1984]{blumenfeld1984trade}
+Blumenfeld, D.~E., Hall, R.~W., and Jordan, W.~C. (1984).
+\newblock Trade-off between freight expediting and safety stock inventory
+  costs.
+\newblock Technical report.
+
+\bibitem[Chopra and Meindl, 2007]{chopra2007supply}
+Chopra, S. and Meindl, P. (2007).
+\newblock {\em Supply Chain Management: Strategy, Planning, and Operation}.
+\newblock Pearson education. Pearson Prentice Hall.
+
+\bibitem[Devore, 2015]{devore2015probability}
+Devore, J.~L. (2015).
+\newblock {\em Probability and Statistics for Engineering and the Sciences}.
+\newblock Cengage Learning.
+
+\bibitem[Efron, 1979]{efron1979bootstrap}
+Efron, B. (1979).
+\newblock Bootstrap methods: another look at the jackknife. the annals of
+  statistics, 7 (1): 1--26.
+\newblock {\em URL http://www. jstor. org/stable/2958830}.
+
+\bibitem[Efron and Tibshirani, 1994]{efron1994introduction}
+Efron, B. and Tibshirani, R.~J. (1994).
+\newblock {\em An introduction to the bootstrap}.
+\newblock CRC press.
+
+\bibitem[Hsu and El-Najdawi, 1991]{hsu1991integrating}
+Hsu, J.~I. and El-Najdawi, M. (1991).
+\newblock Integrating safety stock and lot-sizing policies for multi-stage
+  inventory systems under uncertainty.
+\newblock {\em Journal of Business Logistics}, 12(2):221.
+
+\bibitem[Johansen and Hill, 2000]{johansen2000r}
+Johansen, S.~G. and Hill, R.~M. (2000).
+\newblock The (r, q) control of a periodic-review inventory system with
+  continuous demand and lost sales.
+\newblock {\em International Journal of Production Economics}, 68(3):279--286.
+
+\bibitem[Kerby, 2014]{kerby2014simple}
+Kerby, D.~S. (2014).
+\newblock The simple difference formula: An approach to teaching nonparametric
+  correlation.
+\newblock {\em Comprehensive Psychology}, 3:11--IT.
+
+\bibitem[Mann and Whitney, 1947]{mann1947test}
+Mann, H.~B. and Whitney, D.~R. (1947).
+\newblock On a test of whether one of two random variables is stochastically
+  larger than the other.
+\newblock {\em The annals of mathematical statistics}, pages 50--60.
+
+\bibitem[McGraw and Wong, 1992]{mcgraw1992common}
+McGraw, K.~O. and Wong, S.~P. (1992).
+\newblock A common language effect size statistic.
+\newblock {\em Psychological bulletin}, 111(2):361.
+
+\bibitem[Quenouille, 1949]{quenouille1949approximate}
+Quenouille, M.~H. (1949).
+\newblock Approximate tests of correlation in time-series.
+\newblock {\em Journal of the Royal Statistical Society. Series B
+  (Methodological)}, 11(1):68--84.
+
+\bibitem[Sezen, 2006]{sezen2006changes}
+Sezen, B. (2006).
+\newblock Changes in performance under various lengths of review periods in a
+  periodic review inventory control system with lost sales.
+\newblock {\em International Journal of Physical Distribution \& Logistics
+  Management}.
+
+\bibitem[Singh et~al., 1998]{singh1998breakdown}
+Singh, K. et~al. (1998).
+\newblock Breakdown theory for bootstrap quantiles.
+\newblock {\em The annals of Statistics}, 26(5):1719--1732.
+
+\bibitem[Tabachnick and Fidell, 2000]{tabachnick2000using}
+Tabachnick, B.~G. and Fidell, L.~S. (2000).
+\newblock Using multivariate statistics (vol. 1). northridge.
+
+\bibitem[Vallat, 2018]{Vallat2018}
+Vallat, R. (2018).
+\newblock Pingouin: statistics in python.
+\newblock {\em The Journal of Open Source Software}, 3(31):1026.
+
+\bibitem[Vargha and Delaney, 2000]{vargha2000critique}
+Vargha, A. and Delaney, H.~D. (2000).
+\newblock A critique and improvement of the cl common language effect size
+  statistics of mcgraw and wong.
+\newblock {\em Journal of Educational and Behavioral Statistics},
+  25(2):101--132.
+
+\bibitem[Waller et~al., 2008]{waller2008review}
+Waller, M., Williams, B.~D., and Tokar, T. (2008).
+\newblock A review of inventory management research in major logistics
+  journals.
+\newblock {\em The International Journal of Logistics Management}.
+
+\bibitem[Weisstein, 2004]{weisstein2004bonferroni}
+Weisstein, E.~W. (2004).
+\newblock Bonferroni correction.
+\newblock {\em https://mathworld. wolfram. com/}.
+
+\end{thebibliography}
